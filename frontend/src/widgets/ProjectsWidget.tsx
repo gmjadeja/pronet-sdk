@@ -1,7 +1,8 @@
+// ProjectsWidget component
 import React from 'react';
 
 const ProjectsWidget = () => {
-  return <div>Projects</div>;
+    return <div>Projects Widget</div>;
 };
 
 export default ProjectsWidget;

@@ -1,7 +1,8 @@
+// AchievementsWidget component
 import React from 'react';
 
 const AchievementsWidget = () => {
-  return <div>Achievements</div>;
+    return <div>Achievements Widget</div>;
 };
 
 export default AchievementsWidget;

@@ -1,7 +1,8 @@
+// App component
 import React from 'react';
 
 const App = () => {
-  return <div>Welcome to ProNet SDK</div>;
+    return <div>Hello World</div>;
 };
 
 export default App;
